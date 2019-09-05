@@ -1,0 +1,5 @@
+1. A string of As and Bs where Equal no. of As followed by equal no. of Bs 
+2. A string of As and Bs where first and last symbol are same
+3. A string of As and Bs where no. of As is divisible by 2
+4. A binary String which is divisible by 5
+5. A string of As and Bs where no. of A is divisible by 4 and no. b is not divisible by 3 
